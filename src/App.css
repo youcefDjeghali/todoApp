@@ -104,6 +104,7 @@ h1{
     width: 90%;
 }
 
+
 .todo-row:nth-child(4n+1){
     background:linear-gradient(
         90deg,
